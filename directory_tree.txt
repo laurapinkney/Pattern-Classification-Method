@@ -1,0 +1,43 @@
+Simulation-1
+├── Peaks_New
+│   ├── Peaks_run1.png
+│   ├── Peaks_run2.png
+│   ├── ...
+│   └── Peaks_run689.png
+├── Peaks_Patch
+│   ├── Peaks_run1_U_patch_1.png
+│   ├── Peaks_run1_U_patch_2.png
+│   ├── Peaks_run1_U_patch_3.png
+│   ├── Peaks_run2_U_patch_1.png
+│   ├── ...
+│   └── Peaks_run689_U_patch_3.png
+├── Subplots
+│   ├── Subplots_run1.png
+│   ├── Subplots_run2.png
+│   ├── ...
+│   └── Subplots_run689.png
+├── pythonfiles
+│   ├── ETD4RK.py
+│   ├── Equilibria.py
+│   ├── criteria_values.txt
+│   ├── functions.py
+│   ├── loadandplot_newcriteria.py
+│   ├── parameters.py
+│   ├── paramlist.txt
+│   ├── paramlistwedge.txt
+│   ├── patterncodenew.txt
+│   ├── patterncodepatch.txt
+│   └── random_U_ic.txt
+├── run_output
+│   ├── run-1
+│   │   └── dataoutput
+│   ├── run-2
+│   │   └── dataoutput
+│   ├── ...
+│   └── run-689
+│       └── dataoutput
+└── submissionfiles
+    ├── Qload.sh
+    └── Qsolve.sh
+
+
